@@ -21,3 +21,8 @@ nav a {
     padding: 20px;
   }
 }
+
+.dark-mode {
+  background: #111;
+  color: white;
+}
